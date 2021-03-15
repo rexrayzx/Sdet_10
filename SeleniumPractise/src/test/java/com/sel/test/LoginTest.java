@@ -12,6 +12,10 @@ public class LoginTest {
 		System.out.println("login");
 	}
 
+		public void login(String usermane)
+		{
+			
+		}
 }
 
 	
