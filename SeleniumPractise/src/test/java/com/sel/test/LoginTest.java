@@ -1,10 +1,17 @@
 package com.sel.test;
 
+import org.junit.Test;
+
 public class LoginTest {
 
-	public static void main(String[] args) {
+
 		
+		@Test
+		public void login()
+		{
 		System.out.println("login");
 	}
 
 }
+
+	
